@@ -88,6 +88,11 @@ https://user-images.githubusercontent.com/33266454/176262531-a09050bc-30fe-4ce8-
 <p align="center">
 Gregório Silva
 </p>
+<br><br>
+</p>
+<p align="center">
+Agradecimento especial ao Caio do curso PyStack_Week 3.0
+</p>
 
 
 
