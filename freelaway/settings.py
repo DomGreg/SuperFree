@@ -128,6 +128,6 @@ constants.INFO: 'alert-info',
 constants.WARNING: 'alert-warning',
 }
 
-# email
+# email email
 
 EMAIL_BACKEND = 'django.core.mail.backends.console.EmailBackend'
