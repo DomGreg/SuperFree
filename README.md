@@ -95,6 +95,6 @@ Gregório Silva
 
 The [MIT License]() (MIT)
 
-Copyright :copyright: 2022 - Site de consumo de API
+Copyright :copyright: 2022 
 
 
